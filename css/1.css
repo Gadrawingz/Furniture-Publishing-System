@@ -1,0 +1,217 @@
+.navbar-brand{
+
+    font-size: 47px;
+    font-family: fantasy;
+
+}
+
+.nav-data{
+    background-color: #1f2252;
+    color: white;
+
+    font-family: arial;
+    font-size: 19px;
+}
+
+
+.nav-link li a{
+    color: #ece1e1;
+}
+
+.nav-link li a:hover{
+    color: black;
+}
+
+
+.profile{
+    width: 160px;
+    height: 160px;
+
+    box-shadow: 2px 2px 2px 2px white;
+
+}
+
+
+
+section{
+
+    margin-top: 50px;
+}
+
+
+.grid1{
+
+    box-shadow: 2px 2px 2px 2px  #0b5b17;
+    width: 24%;
+
+    margin: .5%;
+    padding-top: 2%;
+
+    height: 260px;
+    overflow: hidden;
+    
+}
+
+
+.category-div{
+
+    box-shadow: 2px 2px 2px 2px  #0b5b17;
+    width: 24%;
+
+    margin: .5%;
+    padding-top: 2%;
+
+    height: 260px;
+    overflow: hidden;
+    
+}
+
+
+.prof-name{
+
+    background-color: #88ba00;
+    color: white;
+
+    padding: 2%;
+    font-size: 20px;
+
+    font-family: arial;
+    width: 80%;
+}
+
+
+
+.header-data{
+
+    background-color: #88ba00;
+    color: white;
+
+    font-size: 20px;
+
+    font-family: arial;
+    padding: 2%;
+}
+
+
+
+.input{
+    border: 2px solid #060652;
+    font-size: 18px;
+
+    font-family: arial;
+}
+
+
+.view{
+    width: 48%;
+    box-shadow: 2px 2px 2px 2px  #0b5b17;
+
+    height: 250px;
+    margin: 1%;
+
+    padding-top: 2%;
+}
+
+
+.view img{
+    width: 180px;
+    height: 180px;
+}
+
+
+.view h4{
+    font-size: 25px;
+    font-family: arial;
+
+    text-transform:capitalize;
+}
+
+
+.view-content{
+
+    box-shadow: 2px 2px 2px 2px #0b5b17;
+    height:auto;
+}
+
+.view-content h4{
+
+    font-size: 19px;
+    color:black;
+
+    font-family: arial;
+}
+
+
+.btn-do{
+
+    font-size: 18px;
+    font-family:arial;
+
+    margin-bottom: 10px;
+}
+
+
+
+
+.table-responsive{
+
+    background-color: #e2dada;;
+    font-size: 18px;
+
+    font-family: arial;   
+    border: 2px;
+}
+
+
+
+.button{
+
+    margin-top: 20px;
+}
+
+
+
+.error{
+    background-color: #dadfe0;
+    width: 70%;
+
+    padding: 1%;
+    font-size: 17px;
+
+    font-family: arial;
+    display:none;
+
+    border: 2px solid; 
+    border-radius: 2px;
+}
+
+
+
+
+.type{
+
+    border-radius: 70px;
+    height: 60px;
+
+    width: 48%;
+    margin: 2% 0% 2% 2%  ;
+}
+
+.type h4 a{
+
+    color: #fff;
+    font-size: 22px;
+
+    font-family: fantasy;
+    text-transform:capitalize;
+
+}
+
+.type h4 {
+
+    margin-top: 20px;
+
+}
+
+
+

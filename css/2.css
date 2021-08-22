@@ -1,0 +1,41 @@
+#side-link{
+    
+    height: 400px;
+
+    list-style-type:none;
+    
+}
+
+#side-link li a {
+
+    color: black;
+    font-size: 18px;
+
+    font-family: arial;
+    padding-top: 2%;
+}
+
+#side-link li{
+
+    margin-top: 20px;
+    width: 100%;
+}
+
+
+#side-link li:first-child{
+
+    margin-top: 0px;
+}
+
+
+.left-data-link{
+
+    background-color: #fbf6f6;
+    height: inherit;
+}
+
+
+
+#content-data{
+    min-height: 600px;
+}

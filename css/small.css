@@ -1,0 +1,132 @@
+/* airBus row  */
+@media only screen and (max-width: 700px){
+
+  
+  .content{
+    padding-top: 250px;
+  }
+ 
+
+  
+  .view{
+    width: 48%;
+    box-shadow: 2px 2px 2px 2px  #06420d;
+
+    height: 250px;
+    margin: 1%;
+
+    padding-top: 2%;
+    display: inline-blok;
+    float:left;
+    
+    margin-bottom:  40px;
+}
+
+
+.view img{
+    width: 150px;
+    height: 150px;
+}
+
+
+.view h4{
+    font-size: 17px;
+    font-family: arial;
+
+    text-transform:capitalize;
+}
+
+
+.grid1{
+
+    box-shadow: 2px 2px 2px 2px  #06245a;
+    width: 98%;
+    height: 260px;
+    overflow: hidden;
+
+    margin-top: 5%;
+
+    
+}
+    
+ .grid1:last-child{
+    margin-bottom: 5%;
+
+    
+}
+    
+
+
+section{
+
+  display:none;
+}
+
+
+.prod{
+
+  margin-top: -200px
+}
+
+
+.head-content{
+
+  font-size: 30px;
+  font-family: arial;
+}
+
+
+.grid1 img, .view-content img {
+    
+    height: 150PX;
+    border-radius: 2px;
+    width: 150px;
+}
+
+
+
+
+.type{
+
+    border-radius: 70px;
+    height: 60px;
+
+    width: 48%;
+    margin: 2% 0% 2% 2%  ;
+    float:left
+}
+
+.type h4 a{
+
+    color: #fff;
+    font-size: 22px;
+
+    font-family: fantasy;
+    text-transform:capitalize;
+
+}
+
+.type h4 {
+
+    margin-top: 20px;
+
+}
+
+
+
+.every-header{
+  margin-top: 70px; 
+}
+
+.view-content{
+
+  height: auto;
+  padding: 2%;
+
+}
+
+
+
+
+
+}

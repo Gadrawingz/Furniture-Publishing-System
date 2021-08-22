@@ -1,0 +1,268 @@
+* {
+    box-sizing: border-box;
+}
+
+
+@font-face {
+src: url('/fonts/Gotham\ Pro\ Regular.ttf');
+font-family: Gotham;
+}
+
+body{
+  background:#f4f4f4;
+  font-family: 'Carrois Gothic SC', sans-serif;
+
+}
+.btn1 {
+
+    color: yellow;
+}
+
+.error{
+
+    color: red;
+}
+.dropdown-item:hover {
+    background-color: #77751b !important;
+}
+.dropdown-menu >a:active {
+    background-color: #77751b !important;
+}
+
+
+.navbar {
+    background: #8E4329 !important ;
+}
+ a {
+    color: #fff i !important;
+}
+.bg-img {
+
+    background-image: url('img/section.jpg');
+}
+.wrap {
+    margin-top: -px;
+}
+.bg {
+    background: #f8d904;
+}
+.card a {
+    color: gray !important;
+    text-decoration: none;
+    
+}
+/* .card a:hover{
+    background-color: #f8d904;
+    opacity: 0.5;
+    transition: 1s;
+} */
+
+
+.card h4 {
+    color:black !important;
+    text-decoration: none;
+}
+
+.showcase img {
+   width: 100%;
+   position: relative;
+}
+.showcase {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    background: green;
+    height: auto;
+
+ }
+ .showcase img {
+   width: 100%;
+   position: relative;
+}
+.overlay {
+    position: absolute;
+    background: gray;
+    top:0;
+    height: 100%;
+    width: 100%;
+    z-index: 1;
+    opacity: 0.7;
+    left: 0;
+}
+
+.showcase-text {
+    position: absolute;
+    top:20%;
+    height: 100%;
+    width: 70%;
+    z-index: 2;
+    left:15%;
+    color:#fff;
+    right: 10%;
+    line-height: 2.1;
+    font-weight: bolder;
+    opacity: 1;
+    
+    
+
+}
+.showcase-text  h1{
+   font-size: 2.6rem;
+}
+
+
+#section-1 {
+
+    font-size: medium;
+    margin-top: -10px;
+    font-size: 22px;
+    font-family: 'Carrois Gothic SC', sans-serif
+
+  
+}
+.col-border{
+    border:  1px solid white;
+    border-top: none;
+    border-bottom: none;
+
+}
+#section-2 {
+
+    background: white;
+    font-size: medium;
+    padding: 1em;
+    box-sizing: border-box;
+    background-image: url('img/section.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    font-family: Gotham, Arial;
+    font-style: normal;
+  
+}
+#section-3 {
+
+    background:white;
+    font-size: medium;
+    padding: 3em;
+    font-family: Gotham, Arial;
+    font-style: normal;
+  
+}
+#section-4 {
+
+    background: white;
+    font-size: medium;
+    padding: 1em;
+    font-family: 'Carrois Gothic SC', sans-serif;
+    font-style: normal;
+  
+}
+#section-5 {
+
+    background: #00101c;
+    font-size: medium;
+    padding: 1em;
+   
+    font-family: 'Carrois Gothic SC', sans-serif;
+  
+}
+#section-4-img{
+
+    background-image: url('img/phone.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    margin-top: 10px;
+}
+img {
+
+    width: 350px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 1.2rem;
+}
+.div-form {
+
+    background: #fff;
+    font-size: medium;
+    padding-bottom: 10px;
+
+    margin-top: -10px;
+    padding-top: 1%;
+    
+}
+
+
+.form-group{
+    margin-top: 2%;
+}
+
+.form-group input{
+    border: 3px solid #77751b;
+    font-size: 18px;
+
+    font-family: arial;
+}
+
+.form-group select{
+    border: 3px solid #77751b;
+    font-size: 18px;
+
+    font-family: arial;
+}
+
+.btn-action{
+    margin-top: 2%;
+    margin-bottom: 5%;
+}
+
+
+
+
+/* @media (max-width: 760px) {
+    .showcase-text {
+        position: absolute;
+        top:10%;
+        height: 100%;
+        width: 70%;
+        z-index: 2;
+        left:15%;
+        color:#fff;
+        right: 10%;
+        line-height: 2.1;
+        font-weight: bolder;
+        opacity: 1;
+        
+        
+    
+    }
+    .showcase-text  h1{
+       font-size: 2rem;
+    }
+    .show {
+        display: none;
+    }
+
+
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+        color: #ecf0f1;
+      }
+      .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+      .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+        color: #ffbbbc;
+      }
+      .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+      .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+      .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+        color: #ffbbbc;
+        background-color: #c0392b;
+      }
+    
+    } */
